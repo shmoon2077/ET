@@ -1,0 +1,29 @@
+### Maven ###
+target/
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+*.class
+*.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### NetBeans ###
+/nbproject/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
